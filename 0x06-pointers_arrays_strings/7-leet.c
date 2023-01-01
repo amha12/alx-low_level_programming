@@ -16,7 +16,7 @@ char *leet(char *str)
 	for (; str[i] != '\0'; i++)
 	{
 		for (k = 0; k <= 9; k++)
-[I		{
+		{
 			if (s[k] == str[i])
 			{
 				str[i] = s1[k];
