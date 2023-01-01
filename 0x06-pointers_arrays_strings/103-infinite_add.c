@@ -43,7 +43,4 @@ r[l] = m;
 }
 return (r);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
 
