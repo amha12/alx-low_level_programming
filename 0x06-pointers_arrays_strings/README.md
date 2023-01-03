@@ -1,5 +1,5 @@
- 0x06-pointers_arrays_strings
-MANDATORY
+0x06-pointers_arrays_strings
+ MANDATORY
 
 0-strcat.c
 a function that conactenates two strings.
