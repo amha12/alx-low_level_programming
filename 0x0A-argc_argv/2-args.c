@@ -9,7 +9,7 @@
 int main(int argc, char *argv[])
 {
 	int count;
-[I
+
 	for (count = 0; count < argc; count++)
 	{
 		printf("%s\n", argv[count]);
